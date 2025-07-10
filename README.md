@@ -1,4 +1,4 @@
-# HSR-Rand
+# HSR-Randomizer
 A Honkai Star Rail randomizer for all playable characters and Echos of War
 
 Currently on HSR version 3.4
